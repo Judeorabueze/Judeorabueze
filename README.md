@@ -4,6 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Windows 11 Virtual HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
+  
 
 <h2>🏅 Certifications</h2>
 
