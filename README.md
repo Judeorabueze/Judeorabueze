@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jude! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - [Windows 11 Virtual HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
   
