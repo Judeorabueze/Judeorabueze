@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
+<b>Virtualization</b>
 - [Windows 11 Virtual HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
   
 
