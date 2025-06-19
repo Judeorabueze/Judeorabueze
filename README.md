@@ -5,6 +5,8 @@
 <b>Virtualization</b>
 - [Windows 11 Virtual Machine HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
   
+<b>Loacl User Account and File Permission Management</b>
+ - [Local User Account Management on Windows 11](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/README.md)
 
 <h2>🏅 Certifications</h2>
 
