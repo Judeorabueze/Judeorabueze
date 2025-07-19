@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-<b>Virtualization</b>
+<b>Virtualization and Lab Setup</b>
 - [Windows 11 Virtual Machine HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
 - [Installation of Ubuntu VM on VirtualBox](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-)
   
