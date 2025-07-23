@@ -8,6 +8,7 @@
   
 <b>Loacl User Account and File Permission Management</b>
  - [Local User Account Management on Windows 11](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/README.md)
+ - [Administering Users and Permissions in Linux](https://github.com/Judeorabueze/Administering-Users-in-Linux)
 
 <h2>🏅 Certifications</h2>
 
