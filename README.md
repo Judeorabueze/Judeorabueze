@@ -5,6 +5,7 @@
 <b>Virtualization and Lab Setup</b>
 - [Windows 11 Virtual Machine HomeLab Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
 - [Installation of Ubuntu VM on VirtualBox](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-)
+- [Deploying Active Directory and Joining Windows 10 Client](https://github.com/Judeorabueze/Active-Directory-Setup-with-Windows-10-Client)
   
 <b>Loacl User Account and File Permission Management</b>
  - [Local User Account Management on Windows 11](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/README.md)
