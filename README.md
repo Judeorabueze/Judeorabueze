@@ -7,7 +7,7 @@
 - [Installation of Ubuntu VM on VirtualBox](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-)
 - [Deploying Active Directory and Joining Windows 10 Client](https://github.com/Judeorabueze/Active-Directory-Setup-with-Windows-10-Client)
   
-<b>Loacl User Account and File Permission Management</b>
+<b>Local User Account and File Permission Management</b>
  - [Local User Account Management on Windows 11](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/README.md)
  - [Administering Users and Permissions in Linux](https://github.com/Judeorabueze/Administering-Users-in-Linux)
 
